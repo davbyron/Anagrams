@@ -2,7 +2,7 @@
 
 > Creates a list of anagrams with a length greater than or equal to 8---and their corresponding words---found in the Brown Corpus (via NLTK).
 
-This script was produced using Python 3.7.2.
+This script was produced using Python 3.7.2 and was originally submitted as homework for LING 38600 'Computational Linguistics' taught by John Goldsmith at the University of Chicago, spring quarter 2019.
 
 The code is fairly straightforward and operates under the following steps:
 
